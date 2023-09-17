@@ -55,7 +55,7 @@ letter-spacing: 0.02em;
 
 
 .hero {
-    background-color: #2e2f42;
+ background-color: #2e2f42;
 
 }
 .hero-text {
@@ -120,7 +120,7 @@ line-height: 1.5
     font-weight: 700;
     letter-spacing: 0.72px;
     text-transform: capitalize;
-    line-height: 1.2;
+    line-height: 1.11;
     text-align: center
 }
 .name {
