@@ -30,7 +30,7 @@ line-height: 1.5
 .header-link:hover {
     color: #404bbf;  
 }
-.header-address-link:focus {
+.header-link:focus {
     color: #404bbf;
 }
 
