@@ -25,7 +25,7 @@ font-family: Roboto;
 font-size: 16px;
 font-weight: 500;
 letter-spacing: 0.32px;
-line-height: 1.5
+line-height: 1.5;
 }
 .header-link:hover {
     color: #404bbf;  
@@ -48,7 +48,7 @@ letter-spacing: 0.02em;
 }
 .header-address-link:hover,
 .header-address-link:focus {
-    color: #404bbf
+    color: #404bbf;
 }
 
 -----HEADER-----
@@ -111,7 +111,7 @@ font-family: Roboto;
 font-size: 16px;
 font-weight: 400;
 letter-spacing: 0.32px;
-line-height: 1.5 
+line-height: 1.5; 
 }
 
 .title-name {
@@ -134,7 +134,7 @@ line-height: 1.5
     color: #4d5ae5;
 }
 .other-color {
-   color: #f4f4fd
+   color: #f4f4fd;
 }
 .logo-text {
     color: #F4F4FD;
